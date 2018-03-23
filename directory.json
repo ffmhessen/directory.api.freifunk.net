@@ -248,6 +248,7 @@
 	"michelbach-le-haut" : "https://map.freifunk-3laendereck.net/api/community.php?city=Michelbach-le-Haut&country=FR&community=ff3l-3land",
 	"minden" : "http://www.freifunk-minden.de/api.json",
 	"mittelangeln" : "http://api.ffslfl.net/mittelangeln-api.json",
+	"mittelhessen" : "https://freifunk-mittelhessen.de/ffmhapi.json",
 	"mittweida" : "https://raw.githubusercontent.com/Freifunk-Mittelsachsen/ffmisax-community-files/master/FreifunkMittweida-api.json",
 	"moehnesee" : "http://map.freifunk-moehne.de/api/moehnesee.json",
 	"moenchengladbach" : "https://raw.githubusercontent.com/ffruhr/ffapi/master/moenchengladbach.json",
